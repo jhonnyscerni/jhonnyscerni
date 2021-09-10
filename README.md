@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyscerni&hide=html&layout=compact
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=jhonnyscerni" /></td>
+  </tr>
 
 <!--
 **jhonnyscerni/jhonnyscerni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
