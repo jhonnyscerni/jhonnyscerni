@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyscerni&hide=html&layout=compact" /></td>
+  </tr>
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=jhonnyscerni" /></td>
   </tr>
 
