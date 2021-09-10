@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyscerni&hide=html&layout=compact" /></td>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyscerni&hide=html&layout=compact&langs_count=4" /></td>
   </tr>
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=jhonnyscerni" /></td>
   </tr>
