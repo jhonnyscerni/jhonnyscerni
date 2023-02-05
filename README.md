@@ -1,14 +1,19 @@
 ## Oiii! Eu sou o Jhonny Scerni 👋
 
+### GitHub Stats
+
 <div >
+     <div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonnyscerni&theme=blue-green"/>
+    </div>
   <a href="https://github.com/RodrigoGoisOficial">
-   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhonnyscerni&&show_icons=true&theme=aura&include_all_commits=true" /> &ensp;
-   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhonnyscerni&layout=compact&langs_count=7&theme=aura" />
+   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhonnyscerni&&show_icons=true&theme=blue-green&include_all_commits=true" /> &ensp;
+   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhonnyscerni&layout=compact&langs_count=7&theme=blue-green" />
   </a>
 </div>
 
   
- ## :computer: Techs:
+ ### Techs:
 
 <div style="display: inline_block"><br>
  <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" style="max-width: 100%;">
@@ -20,10 +25,14 @@
   <img align="center" alt="Jhonny-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;">
   <img align="center" alt="Jhonny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="center" alt="Jhonny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  
 <!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
   
-  ##
+### Socials
  
 <div> 
 <!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
@@ -36,6 +45,12 @@
  <!-- ![Snake animation](https://github.com/jhonnyscerni/jhonnyscerni/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+
+ <h2 align="center"> Total de visitas </h2><br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/jhonnyscerni/count.svg" />
+ </p>
+
 <!--
 **jhonnyscerni/jhonnyscerni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
